@@ -10,7 +10,7 @@ This program is free software. You can redistribute it and/or modify it under th
 
 ## Notes
 
-"mom" and "mum" are interchangeable i.e:
+"mom" and "mum" are interchangeable i.e.:
 
 * "mom" can be spelled "mum"
 * "mum" can be spelt "mom"
