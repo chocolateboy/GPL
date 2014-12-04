@@ -2,7 +2,7 @@
 
 ## Terms
 
-This program is free software. You can redistribute it and/or modify it under the same terms as your mum.
+This program is free software. You can redistribute it and/or modify it under the same terms as your mom.
 
 ## Example
 
