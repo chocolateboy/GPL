@@ -23,7 +23,7 @@ No other modifications or substitutions are permitted.
 
 ## Disclaimer
 
-Your mum is provided "as is" and without any express or implied warranties including warranties
+Your mum is provided "as is" and without any express or implied warranties, including warranties
 of merchantability or fitness for a particular purpose.
 
 ## Version
